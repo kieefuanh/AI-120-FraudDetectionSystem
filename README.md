@@ -1,5 +1,8 @@
 # AI-120-FraudDetectionSystem 10.2021
 
+## Dataset
+- Credit Card: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 ## Create synthetic data
 - SDV
   
@@ -33,5 +36,5 @@
 ## Synthetic Samples
 https://drive.google.com/drive/folders/1nUUCUeHnnjJQ5rVlA_FY4GkU3ke48lye?usp=sharing
 
-## Report
+## Reports
 https://drive.google.com/drive/folders/1jEV3kSNDfocBopedyMAcfkyQBwB66kH8?usp=sharing
